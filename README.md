@@ -6,6 +6,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-green?style=flat&logo=github)](https://github.com/Achyuthc/Achyuthc/)
 [![GeeksForGeeks](https://img.shields.io/badge/GeeksForGeeks-Solve-yellow?style=flat&logo=geeksforgeeks)](https://auth.geeksforgeeks.org/user/achyuthchowdary30/profile)
 [![HackerRank](https://img.shields.io/badge/HackerRank-Solve-green?style=flat&logo=hackerrank)](https://www.hackerrank.com/profile/achyuthchowdary3)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-ff69b4?style=flat&logo=instagram)](https://www.instagram.com/techwithachyuth)
 
 ## 👋 Hi, I'm Achyuth Chowdary D A
 
